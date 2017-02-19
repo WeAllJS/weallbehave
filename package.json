@@ -1,6 +1,6 @@
 {
   "name": "weallbehave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CODE_OF_CONDUCT.md generator",
   "main": "index.js",
   "files": [
