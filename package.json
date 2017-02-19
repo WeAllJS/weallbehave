@@ -35,6 +35,6 @@
     "nyc": "^10.0.0",
     "standard": "^8.6.0",
     "tap": "^8.0.1",
-    "weallcontribute": "^1.0.3"
+    "weallcontribute": "^1.0.7"
   }
 }
