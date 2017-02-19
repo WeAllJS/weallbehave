@@ -1,0 +1,40 @@
+{
+  "name": "weallbehave",
+  "version": "0.0.0",
+  "description": "CODE_OF_CONDUCT.md generator",
+  "main": "index.js",
+  "files": [
+    "*.md",
+    "*.js"
+  ],
+  "bin": "./index.js",
+  "scripts": {
+    "preversion": "npm t",
+    "postversion": "npm publish && git push --follow-tags",
+    "pretest": "standard lib test *.js",
+    "test": "nyc -- tap test/*.js",
+    "update-contrib": "weallcontribute -o . && git add CONTRIBUTING.md && git commit -m 'docs(contributing): Updated CONTRIBUTING.md'"
+  },
+  "repository": "https://github.com/wealljs/weallbehave",
+  "keywords": [
+    "documentation",
+    "projects",
+    "code of conduct",
+    "coc"
+  ],
+  "author": {
+    "name": "Kat Marchán",
+    "email": "kzm@sykosomatic.org",
+    "twitter": "maybekatz"
+  },
+  "license": "CC0-1.0",
+  "dependencies": {
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {
+    "nyc": "^10.0.0",
+    "standard": "^8.6.0",
+    "tap": "^8.0.1",
+    "weallcontribute": "^1.0.3"
+  }
+}
