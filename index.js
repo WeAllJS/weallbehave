@@ -61,8 +61,8 @@ if (maintainers.length) {
   if (haveTwitter.length) {
     enforcerStr += '\n  * Through Twitter:'
     haveTwitter.forEach(function (m) {
-      var handle = '@' + m.twitter.replace('@', '').replace(/.*twitter\.com[/]*/, '')
-      enforcerStr += '\n    * [@' + m.twitter + '](https://twitter.com/' + handle.substr(1) + ')'
+      var handle = '@' + m.twitter.replace(/@/, '').replace(/.*twitter\.com[/]*/, '')
+      enforcerStr += '\n    * [' + handle + '](https://twitter.com/' + handle.substr(1) + ')'
       if (m.name) {
         enforcerStr += ' (' + m.name + ')'
       }
