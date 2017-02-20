@@ -2,7 +2,7 @@
 
 [`weallbehave`](https://npm.im/weallbehave) is a command-line tool for automatically generating and updating the [`CODE_OF_CONDUCT.md`](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/) for your projects.
 
-You can configure the maintainers that will enforce the CoC by adding `author` and `maintainers` fields to `package.json`. Currently `email` and `twitter` are supported. You can exclude maintainers from enforcement duties by adding `"coc-enforcer": false` to their author/maintainer entry.
+You can configure the maintainers that will enforce the CoC by adding `author` and contributors` fields to `package.json`. Currently `email` and `twitter` are supported. You can exclude maintainers from enforcement duties by adding `"coc-enforcer": false` to their author/contributors entry.
 
 ## Install
 
@@ -22,7 +22,23 @@ You can configure the maintainers that will enforce the CoC by adding `author` a
 {
   "scripts": {
     "update-coc": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'"
-  }
+  },
+  "author": {
+    "name": "Alice",
+    "email": "pwnu@sekrit.hax",
+    "twitter": "@socialistengineering"
+  },
+  "contributors": [
+    {
+      "name": "Bob",
+      "email": "me@friendly.bob",
+      "coc-enforcer": false
+    },
+    {
+      "name": "Catherine",
+      "email": "this@kitty.slays"
+    }
+  ]
 }
 // Now you can do `npm run update-coc` any time you
 // bump your `weallbehave` version to bring your docs
