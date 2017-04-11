@@ -37,7 +37,7 @@ Examples of unacceptable behavior by participants include:
   * Publishing private screenshots or quotes of interactions in the context of this project without all quoted users' *explicit* consent.
   * Publishing of private communication that doesn't have to do with reporting harrassment.
   * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
-  * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
+  * Any attempt to deflect unacceptable behavior by using "reverse-isms", or equating "reverse-isms" with oppressive speech about a minority group (which can be an attempt to minimize the legacy and impact of long-standing and systemic oppression of minorities). Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia". This project recognizes oppression as directional and will adjust its perspective accordingly.
   * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
   * [Feigning or exaggerating surprise](https://www.recurse.com/manual#no-feigned-surprise) when someone admits to not knowing something.
   * "[Well-actuallies](https://www.recurse.com/manual#no-well-actuallys)"
