@@ -116,7 +116,7 @@ Sometimes, though, you need to get maintainers involved. Maintainers will do the
 
 > Patt: "I'm not attacking anyone, what's your problem?"
 
-> Alex: "@maintainers hey uh. Can someone look at this issue? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
+> Alex: "@maintainers hey uh. Can someone look at this issue? Patt is being rather rude. I tried to nudge them about it, but they didn't listen or understand."
 
 > KeeperOfCommitBits: (on issue) "Hey Patt, maintainer here. Could you tone it down? This sort of attack is really not okay in this space."
 
@@ -134,7 +134,7 @@ Sometimes, though, you need to get maintainers involved. Maintainers will do the
 
 > Patt: "NOOOOPE. OH NOPE NOPE."
 
-> Alex: "JFC NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
+> Alex: "OH DEAR, NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
 
 > KeeperOfCommitBits: "👀 Nope. NOPE NOPE NOPE. 🔥"
 
