@@ -116,7 +116,7 @@ Sometimes, though, you need to get maintainers involved. Maintainers will do the
 
 > Patt: "I'm not attacking anyone, what's your problem?"
 
-> Alex: "@maintainers hey uh. Can someone look at this issue? Patt is being rather rude. I tried to nudge them about it, but they didn't listen or understand."
+> Alex: "@maintainers hey uh. Can someone look at this issue? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
 
 > KeeperOfCommitBits: (on issue) "Hey Patt, maintainer here. Could you tone it down? This sort of attack is really not okay in this space."
 
