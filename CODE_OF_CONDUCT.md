@@ -134,7 +134,7 @@ Sometimes, though, you need to get maintainers involved. Maintainers will do the
 
 > Patt: "NOOOOPE. OH NOPE NOPE."
 
-> Alex: "JFC NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
+> Alex: "ABSOLUTELY NOT, NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
 
 > KeeperOfCommitBits: "👀 Nope. NOPE NOPE NOPE. 🔥"
 
