@@ -29,12 +29,12 @@
   },
   "license": "CC0-1.0",
   "dependencies": {
-    "yargs": "^6.6.0"
+    "yargs": "^13.1.2"
   },
   "devDependencies": {
-    "nyc": "^10.0.0",
+    "nyc": "^14.0.0",
     "standard": "^8.6.0",
-    "tap": "^8.0.1",
-    "weallcontribute": "^1.0.7"
+    "tap": "^12.6.4",
+    "weallcontribute": "^1.0.9"
   }
 }
